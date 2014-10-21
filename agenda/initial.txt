@@ -1,0 +1,28 @@
+Blok/Grupa	  
+---------------------------------------------------------------
+Rano
+                  6+	                                    	            
+	            Dr. Technico [ToLa , LuLa]
+              Light Bot/MindStorms FTF [JaCz, PiSm]	
+              
+                  8+
+              Spehro (advanced) [PiSm ,ToLa]	
+              
+                  10+
+              Scratch (advanced) [KrSo, MaMo]	
+              
+                  12+
+              LEGO MindStorm (advanced) [LuGa, PiKa]
+---------------------------------------------------------------
+Po południu	
+                  6+	                                    	            
+              Sphero (easy)[PiKa, ToLa]	
+            
+                  8+
+              Scratch (easy) [KrSo, LuGa]	
+            
+                  10+ 
+              LEGO MindStorm (easy) [LuLa, KrSo]	
+            
+                  12+ 
+              Arduino [JaCz, MaMo]

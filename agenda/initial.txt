@@ -1,17 +1,16 @@
-Blok/Grupa	  
+Blok/Grupa
 ---------------------------------------------------------------
 Wstępniak: (dla wszystkich: powitanie, agenda, sprawy organizacyjne) 10:00 - 10:15
 ---------------------------------------------------------------
 Blok poranny: 10:15 - 12:45
-                  6+	                                    	            
-	      Dr. Technico
-              Light Bot/MindStorms FTF [JaCz, ToLa]	
+                  6+
+              Robot game/MindStorms FTF [JaCz, ToLa]
               
                   8+
-              Spehro (advanced) [PiSm ,PiKa]	
+              Spehro (advanced) [PiSm ,PiKa]
               
                   10+
-              Scratch (advanced) [KrSo, MaMo]	
+              Scratch (advanced) [KrSo, MaMo]
               
                   12+
               LEGO MindStorm (advanced) [LuGa, LuLa]
@@ -19,15 +18,15 @@ Blok poranny: 10:15 - 12:45
 Obiad: 12:45 - 13:15
 ---------------------------------------------------------------
 Blok popołudniowy: 13:15 - 16:00
-                  6+	                                    	            
-              Sphero (easy)[PiSm, ToLa]	
-            
+                  6+
+              Sphero (easy)[PiSm, ToLa]
+              
                   8+
-              Scratch (easy) [KrSo, LuGa]	
-            
+              Scratch (easy) [KrSo, LuGa]
+              
                   10+ 
-              LEGO MindStorm (easy) [LuLa, PiKa]	
-            
+              LEGO MindStorm (easy) [LuLa, PiKa]
+              
                   12+ 
               Arduino [JaCz, MaMo]
 ---------------------------------------------------------------

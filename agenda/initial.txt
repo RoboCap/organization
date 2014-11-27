@@ -3,31 +3,31 @@ Blok/Grupa
 Wstępniak: (dla wszystkich: powitanie, agenda, sprawy organizacyjne) 10:00 - 10:15
 ---------------------------------------------------------------
 Blok poranny: 10:15 - 12:45
-                  6+
+                  6+                (CINNAMON)
               Robot game/MindStorms FTF [JaCz, ToLa]
               
-                  8+
-              Spehro (advanced) [PiSm ,PiKa]
+                  8+                (VANILIA)
+              Spehro (advanced) [PiSm, PiKa]
               
-                  10+
+                  10+               (CUMIN)
               Scratch (advanced) [KrSo, MaMo]
               
-                  12+
+                  12+               (PEPPER)
               LEGO MindStorm (advanced) [LuGa, LuLa]
 ---------------------------------------------------------------
 Obiad: 12:45 - 13:15
 ---------------------------------------------------------------
 Blok popołudniowy: 13:15 - 16:00
-                  6+
+                  6+                (CINNAMON)
               Sphero (easy)[PiSm, ToLa]
               
-                  8+
+                  8+                (CUMIN)
               Scratch (easy) [KrSo, LuGa]
               
-                  10+ 
+                  10+               (VANILIA)
               LEGO MindStorm (easy) [LuLa, PiKa]
               
-                  12+ 
+                  12+               (PEPPER)
               Arduino [JaCz, MaMo]
 ---------------------------------------------------------------
 Podsumowanie, prezentacje, rozesłanie: 16:00 - 16:15
